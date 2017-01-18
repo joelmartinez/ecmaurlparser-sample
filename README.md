@@ -1,3 +1,5 @@
+You can download a [Xamarin Workbooks](https://developer.xamarin.com/workbooks/) version of this sample here:  
+https://github.com/joelmartinez/workbooks/tree/master/EcmaUrlParsing.workbook
 
 Monodoc has an API that makes it easy to parse "monodoc URLs". What is a monodoc URL? Every *kind* of endpoint type has a special URL, a few examples include:
 
